@@ -1,4 +1,4 @@
-## Polygon Fill using the rasterization
+## Polygon Fill using Rasterization
 
 	 * Draw a filled polygon in the SimpleCanvas.
 	 
